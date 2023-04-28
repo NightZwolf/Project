@@ -601,7 +601,7 @@ ul {
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: 100%;
-  background-image: url('../img/Line.svg');
+  background-image: url('img/Line.svg');
 }
 
 .bg-svg {
